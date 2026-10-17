@@ -1,0 +1,15 @@
+# Tema do app de Cadastro de Pacientes
+# Este arquivo precisa ficar em uma pasta chamada ".streamlit",
+# na mesma pasta de onde você roda "streamlit run".
+
+[theme]
+# Tema claro fixo: o app não fica escuro mesmo se o computador estiver no modo escuro
+base = "light"
+# Cor de destaque (opção marcada, botão Cadastrar, slider, campo selecionado)
+primaryColor = "#4A6FA5"
+# Fundo da página (o azul-marinho é aplicado por cima, no CSS do app)
+backgroundColor = "#E9EDF2"
+# Fundo dos campos de digitação
+secondaryBackgroundColor = "#FFFFFF"
+# Cor do texto
+textColor = "#1F2937"
